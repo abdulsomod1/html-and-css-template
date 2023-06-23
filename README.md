@@ -1,6 +1,6 @@
 # Project Name
 
-> One paragraph statemeno the project.
+> One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
 
@@ -21,7 +21,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone  https://github.com/abdulsomod1/html-and-css-template.git
+git clone https://github.com/abdulsomod1/html-and-css-template.git
 
 ```
 
