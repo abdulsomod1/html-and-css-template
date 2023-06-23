@@ -1,6 +1,6 @@
 # Project Name
 
-> One paragraph statement about the project.
+> One paragraph statemeno the project.
 
 ![screenshot](./app_screenshot.png)
 
@@ -21,7 +21,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone  https://github.com/abdulsomod1/html-and-css-template.git
 
 ```
 
@@ -70,9 +70,9 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@author](https://github.com/abdulsomod1)
+- Twitter: [@author](https://twitter.com/SamcoderT42565)
+- Linkedin: [@author](https://www.linkedin.com/in/abdulsomod1/)
 
 ## 🤝 Contributing
 
